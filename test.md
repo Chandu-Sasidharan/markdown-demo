@@ -49,7 +49,6 @@ _This is in italics_
 - Item 3
   - Nested Item 1
   - nested Item 2
-  - nested Item 3
 
 <!-- OL -->
 
