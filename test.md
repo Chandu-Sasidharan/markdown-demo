@@ -16,8 +16,6 @@
 
 _This is in italics_
 
-_This is in italics_
-
 <!-- Strong -->
 
 **This is strong**
