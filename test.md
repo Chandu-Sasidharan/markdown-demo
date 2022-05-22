@@ -20,8 +20,6 @@ _This is in italics_
 
 **This is strong**
 
-**This is strong**
-
 <!-- Strike through -->
 
 ~~This is stricken through~~
