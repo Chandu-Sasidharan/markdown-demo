@@ -40,8 +40,6 @@ _This is in italics_
 
 [DCI Digital Career Institute](https://digitalcareerinstitute.org/)
 
-[DCI Digital Career Institute](https://digitalcareerinstitute.org/ "Your Digital Career Starts Here")
-
 <!-- UL -->
 
 - Item 1
